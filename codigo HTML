@@ -9,51 +9,54 @@
 		<meta name="keywords" content="tarea1 de IPC">
 	</head>
 	<body>
-<body bgcolor="pink">
+
+<body bgcolor="black">
  <div style="text-align:center;">
 
 
 		<table border="5" style="margin: 250 auto;">
      
-		<caption>MARIA MONSERRATH CARRERA KLIMOWITZ,202000514</caption>
-
+		<caption><font color="teal">MARIA MONSERRATH CARRERA KLIMOWITZ,202000514 </font></caption>
+<FONT SIZE=10 COLOR="purple">TAREA</FONT><FONT SIZE=6 COLOR="magenta" > #1 </FONT> 
 
 		<tr>
 
-			<th>CURSO</th>
-			<th>SEMESTRE</th>
-                  <th>INFORMACION</th>
+			<th><font color="white">CURSO</font></th>
+			<th><font color="white">SEMESTRE</font></th>
+                  <th><font color="white">CREDITOS</font></th>
 		                </tr>
 		                <tr>
 
-			                     <td>Celda 1</td>
-			                     <td>Celda 2</td>
-                                       <td>Celda 3</td>
+			                     <td><font color="red">INTRODUCCION A LA PROGRAMACION Y COMPUTACION 1</font></td>
+			                     <td><font color="blue"> TERCER SEMESTRE </font></td>
+                                       <td><font color="olive">6</font></td>
+
 		                </tr>
                             <tr>
-			                      <td>Celda 4</td>
-			                      <td>Celda 5</td>
-                                        <td>Celda 6</td>
+			                     <td><font color="green">AREA MATEMATICA INTERMEDIA 2</font></td>
+			                      <td><font color="yellow">CUARTO SEMESTRE </font></td>
+                                        <td><font color="magenta">6</font></td>
 		                </tr>
                             <tr>
-			                      <td>Celda 4</td>
-			                      <td>Celda 5</td>
-                                        <td>Celda 6</td>
+			                      <td><font color="purple">AREA MATEMATICA INTERMEDIA 3</font></td>
+			                      <td><font color="cyan">CUARTO SEMESTRE </font></td>
+                                        <td><font color="brown">6 </font></td>
+
 		                </tr>
                             <tr>
-			                      <td>Celda 4</td>
-			                      <td>Celda 5</td>
-                                        <td>Celda 6</td>
+			                      <td><font color="magenta">LOGICA</font></td>
+			                      <td><font color="teal">CUARTO SEMESTRE </font></td>
+                                        <td><font color="blue">1</font></td>       
 		                 </tr>
                              <tr>
-			                      <td>Celda 4</td>
-			                      <td>Celda 5</td>
-                                        <td>Celda 6</td>
+			                      <td><font color="yellow">ESTADISTICA 1</font></td>
+			                      <td><font color="purple">QUINTO SEMESRTE </font></td>
+                                        <td><font color="red">5</font></td>   
                              </tr>
                              <tr>
-			                                     <td>Celda 4</td>
-			                                     <td>Celda 5</td>
-                                                        <td>Celda 6</td>
+			                      <td><font color="blue">FISICA BASICA</font></td>
+			                      <td><font color="green">SEGUNDO SEMESRTE </font></td>
+                                        <td><font color="yellow">5</font></td>
 		                                             </tr>
 		</table>
 	</body>
