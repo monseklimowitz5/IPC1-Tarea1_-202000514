@@ -1,0 +1,61 @@
+
+<!DOCTYPE HTML5>
+<html>
+	<head>
+		<title>KLIMOWITZ_202000514</title>
+		<meta charset="utf-8">
+		<meta name="author" content="">
+		<meta name="description" content="tarea1 de IPC">
+		<meta name="keywords" content="tarea1 de IPC">
+	</head>
+	<body>
+<body bgcolor="pink">
+ <div style="text-align:center;">
+
+
+		<table border="5" style="margin: 250 auto;">
+     
+		<caption>MARIA MONSERRATH CARRERA KLIMOWITZ,202000514</caption>
+
+
+		<tr>
+
+			<th>CURSO</th>
+			<th>SEMESTRE</th>
+                  <th>INFORMACION</th>
+		                </tr>
+		                <tr>
+
+			                     <td>Celda 1</td>
+			                     <td>Celda 2</td>
+                                       <td>Celda 3</td>
+		                </tr>
+                            <tr>
+			                      <td>Celda 4</td>
+			                      <td>Celda 5</td>
+                                        <td>Celda 6</td>
+		                </tr>
+                            <tr>
+			                      <td>Celda 4</td>
+			                      <td>Celda 5</td>
+                                        <td>Celda 6</td>
+		                </tr>
+                            <tr>
+			                      <td>Celda 4</td>
+			                      <td>Celda 5</td>
+                                        <td>Celda 6</td>
+		                 </tr>
+                             <tr>
+			                      <td>Celda 4</td>
+			                      <td>Celda 5</td>
+                                        <td>Celda 6</td>
+                             </tr>
+                             <tr>
+			                                     <td>Celda 4</td>
+			                                     <td>Celda 5</td>
+                                                        <td>Celda 6</td>
+		                                             </tr>
+		</table>
+	</body>
+
+</html>
